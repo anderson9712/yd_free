@@ -1,3 +1,2 @@
-# Downloaded list :
-
-- [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
