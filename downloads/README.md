@@ -1,3 +1,2 @@
-# Downloaded list :
-
-- [Install Termius](./Install%20Termius)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
